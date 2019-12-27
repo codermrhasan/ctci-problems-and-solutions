@@ -1,4 +1,4 @@
-# Cracking The Coding Interview (6th Edition) - Problems and Solution
+# Cracking The Coding Interview (6th Edition) - Problems and Solutions
  CRACKING the CODING INTERVIEW (6th edition) problems and solutions
  
 ## Contribution:
