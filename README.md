@@ -15,3 +15,7 @@ If you are good at coding then you are welcome to contribute it. See [Contributi
 * If something wrong try to take note where you messed up.  
 * If brute force has solved. Then try to improve it.  
 * Recycle the process untill you satisfied.  
+
+## Contributors
+* [Md Rakibul Hasan](https://github.com/codermrhasan) - Python
+* [Claudio Agostini](https://github.com/iClaude) - Kotlin
